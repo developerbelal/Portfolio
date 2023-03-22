@@ -1,0 +1,888 @@
+@media(max-width:1320px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+        /* overflow-x: hidden; */
+    }
+    .header-menu ul li ul {
+        display: block;
+    }
+    
+}
+@media(max-width:1290px) {
+    .s-icon {
+        width: 24px;
+        font-size: 43px;
+        margin-right: 45px;
+    }
+    .s-content h3 {
+        font-size: 22px;
+        padding: 16px 8px;
+    }
+    .s-content p {
+        font-size: 18px;
+    }
+    .service-title h1 {
+        font-size: 45px;
+    }
+    .report-post img {
+        width: 278px;
+    }
+    .right-in-content h3 {
+        font-size: 20px;
+        padding: 11px 15px;
+    }
+    .right-in-content p {
+        font-size: 19px;
+        padding: 10px 14px;
+    }
+    .map-section iframe {
+        width: 96%;
+    }
+}
+@media(max-width:1200px) {
+    .video-content-right h3 {
+        font-size: 39px;
+        padding-bottom: 13px;
+    }
+    .video-content-right p {
+        font-size: 20px;
+        line-height: 33px;
+    }
+    .service-box {
+        padding: 25px 20px;
+    }
+    .service-title h1 {
+        font-size: 40px;
+    }
+    .service-title p {
+        font-size: 25px;
+    }
+    .course-title p {
+        font-size: 21px;
+    }
+    .course-title h1 {
+        font-size: 48px;
+    }
+    .report-post {
+        width: 46%;
+    }
+    .report-post img {
+        width: 258px;
+    }
+    .right-in-content {
+        margin-top: 7px;
+    }
+    .right-in-content p {
+        font-size: 17px;
+        padding: 10px 14px;
+    }
+    .report-post img {
+        width: 234px;
+    }
+    .right-in-content {
+        margin-top: 0px;
+    }
+    .b-hero-content {
+        width: 64%;
+    }
+}
+
+@media(max-width:1060px) {
+    .header-logo span {
+        font-size: 22px;
+        margin-top: 15px;
+    }
+    .header-menu ul li a {
+        display: inline-block;
+        padding: 25px 14px;
+    }
+    .header-button a {
+        padding: 9px 21px;
+    }
+    .banner-content p {
+        font-size: 24px;
+        padding: 0px;
+    }
+    .banner-content h1 {
+        font-size: 50px;
+        padding: 35px 0;
+    }
+    .primary-btn {
+        font-size: 18px;
+        padding: 15px 20px;
+    }
+    .banner-content {
+        padding: 120px 0;
+    }
+    .video-content-right h3 {
+        font-size: 34px;
+        padding-bottom: 13px;
+    }
+    .video-content-right p {
+        font-size: 18px;
+    }
+    .s-icon {
+        width: 19px;
+        font-size: 40px;
+        margin-right: 43px;
+    }
+    .service-box {
+        padding: 21px 10px;
+    }
+    .s-content h3 {
+        font-size: 19px;
+        padding: 15px 7px;
+    }
+    .service-title h1 {
+        font-size: 35px;
+    }
+    .service-title p {
+        font-size: 22px;
+    }
+    .news-content h2 {
+        font-size: 40px;
+    }
+    .report-post img {
+        width: 215px;
+    }
+    .right-in-content {
+        margin-top: -13px;
+    }
+    .right-in-content h3 {
+        font-size: 19px;
+        padding-top: 17px;
+        padding-bottom: 0px;
+    }
+    .right-in-content p {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+    .b-content-top {
+        padding: 4px 15px;
+    }
+    .b-content-top p {
+        font-size: 18px;
+        line-height: 33px;
+        padding: 18px 16px;
+    }
+    .b-hero-content {
+        width: 71%;
+    }
+    
+
+}
+@media(max-width:1005px) {
+    /* .box-top h4 {
+        font-size: 21px;
+    }
+    .box-top h1 {
+        font-size: 41px;
+    }
+    .box-top h1 span {
+        font-size: 20px;
+    }
+    .box-top h5 {
+        font-size: 20px;
+    }
+    .box-top p {
+        font-size: 17px;
+    }
+    .box-list ul li {
+        line-height: 50px;
+        font-size: 17px;
+    }
+    .box-list ul li span {
+        font-size: 25px;
+        margin-right: 8px;
+    } */
+    .box-btn a {
+        font-size: 18px;
+        padding: 15px 21px;
+    }
+    .course-title p {
+        font-size: 20px;
+    }
+    .course-title h1 {
+        font-size: 43px;
+    }
+    .box-team h4 {
+        font-size: 21px;
+    }
+    .box-team p {
+        font-size: 17px;
+    }
+    .invoice-hero-sec {
+        margin: 0 20px;
+    }
+    .report-post {
+        width: 100%;
+        margin-bottom: 26px;
+    }
+    .report-post img {
+        width: 45%;
+        height: 184px;
+    }
+    .right-in-content {
+        margin-top: 10px;
+    }
+    .right-in-content h3 {
+        font-size: 21px;
+    }
+    .right-in-content p {
+        font-size: 18px;
+    }
+    .blog-box:last-child {
+        margin-left: 198px;
+        margin-top: 28px;
+    }
+    .blog-box {
+        float: left;
+        width: 47%;
+        margin-right: 2.5%;
+    }
+    .b-content-top {
+        padding: 23px 23px;
+    }
+    .b-content-top p {
+        font-size: 19px;
+        line-height: 36px;
+        padding: 22px 18px;
+    }
+    .b-hero-content {
+        width: 50%;
+    }
+    .blog-title h2 {
+        font-size: 36px;
+    }
+    .blog-title p {
+        padding-bottom: 43px;
+    }
+    
+    .video-left {
+        width: 100%;
+        padding-bottom: 18px;
+    }
+    .video-content-right {
+        width: 100%;
+    }
+    .version-box {
+        width: 47%;
+    }
+    .version-box:last-child {
+        margin-left: 204px;
+        margin-top: 22px;
+    }
+    .box-top h4 {
+        font-size: 23px;
+    }
+    .box-top h1 {
+        font-size: 52px;
+    }
+    .box-top h5 {
+        font-size: 22px;
+    }
+    .box-top p {
+        font-size: 20px;
+    }
+    .box-list ul li {
+        line-height: 56px;
+        font-size: 20px;
+    }
+    .box-list ul li span {
+        font-size: 27px;
+        margin-right: 8px;
+    }
+    .team-box-sec {
+        margin: 0 20px;
+    }
+    .box-team {
+        width: 47%;
+        margin-bottom: 20px;
+    }
+    .box-team img {
+        width: 100%;
+    }
+    .contact-form-sec {
+        width: 100%;
+    }
+    .map-section {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+    .map-section iframe {
+        width: 100%;
+        height: 400px;
+    }
+    .contact-item form a {
+        padding: 14px 40px;
+    }
+    .contact-item {
+        text-align: center;
+    }
+    .service-box {
+        width: 48%;
+    }
+    .s-icon {
+        width: 20px;
+        font-size: 43px;
+    }
+    .s-content h3 {
+        font-size: 21px;
+        padding: 15px 7px;
+    }
+    .s-content p {
+        font-size: 19px;
+    }
+   
+}
+
+@media(max-width:900px) {
+    .header-logo a img {
+        width: 43px;
+        padding-top: 7px;
+    }
+    .header-logo span {
+        font-size: 19px;
+        margin-top: 17px;
+    }
+    .header-menu ul li a {
+        padding: 25px 6px;
+        font-size: 14px;
+    }
+    .header-button a {
+        padding: 7px 12px;
+        margin-top: 17px;
+    }
+    .header-menu ul li ul{
+        width: 185px;
+    }
+    .banner-content {
+        padding: 92px 0;
+    }
+    .banner-content p {
+        font-size: 20px;
+        padding: 0px;
+    }
+    .banner-content h1 {
+        font-size: 43px;
+        padding: 33px 0;
+    }
+    .primary-btn {
+        font-size: 16px;
+        padding: 13px 19px;
+    }
+    .video-content-right h3 {
+        font-size: 31px;
+        padding-bottom: 10px;
+    }
+    .video-content-right p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+   
+
+    .team-title h2 {
+        font-size: 31px;
+    }
+    .title-p p {
+        font-size: 18px;
+    }
+    .title-h h1 {
+        font-size: 40px;
+    }
+    .b-hero-content {
+        width: 60%;
+    }
+    
+    .footer p {
+        font-size: 18px;
+    }
+    
+
+}
+
+/* responsive out css */
+
+.header-menu span {
+    display: none;
+}
+
+@media(max-width:833px) {
+    .box-team h4 {
+        font-size: 18px;
+    }
+    .box-team p {
+        font-size: 15px;
+    }
+    .blog-title h2 {
+        font-size: 30px;
+    }
+    .footer p {
+        font-size: 17px;
+    }
+}
+
+.menu-check {
+	display: none;
+}
+
+@media(max-width:768px) {
+    .header-logo {
+        width: 100%;
+        text-align: center;
+    }
+    .header-logo a img {
+        float: inherit;
+    }
+    .header-logo span {
+        font-size: 20px;
+        position: relative;
+        top: -15px;
+    }
+    .header-menu {
+        width: 100%;
+    }
+    .header-menu span {
+        font-size: 32px;
+        color: #6278df;
+        cursor: pointer;
+        display: block;
+    }
+    .header-button {
+        width: 200px;
+        position: absolute;
+        right: 18px;
+        top: 32px;
+    }
+    .banner-content {
+        padding: 79px 0;
+    }
+    .banner-content p {
+        font-size: 18px;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+        padding: 26px 0;
+    }
+    .primary-btn {
+        font-size: 14px;
+        padding: 10px 16px;
+    }
+    .video-content-right h3 {
+        font-size: 40px;
+        padding-bottom: 10px;
+    }
+    .video-content-right p {
+        font-size: 19px;
+        line-height: 34px;
+    }
+    .service-box {
+        width: 100%;
+        padding: 25px 30px;
+    }
+    .s-icon {
+        width: 36px;
+        font-size: 46px;
+    }
+    .s-content h3 {
+        font-size: 24px;
+        padding: 18px 7px;
+    }
+    .s-content p {
+        font-size: 20px;
+    }
+    .service-title h1 {
+        font-size: 30px;
+    }
+    .service-title p {
+        font-size: 21px;
+    }
+    .course-title p {
+        font-size: 18px;
+    }
+    .course-title h1 {
+        font-size: 38px;
+    }
+   
+    .e-address {
+        width: 322px;
+    }
+    .news-content form button {
+        padding: 13px 43px;
+    }
+    .news-content p {
+        font-size: 18px;
+    }
+    .news-content h2 {
+        font-size: 35px;
+        padding: 42px 0;
+    }
+    .right-in-content {
+        width: 53%;
+    }
+    .blog-template {
+        padding: 0 20px;
+    }
+    .blog-box:last-child {
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .blog-box {
+        width: 100%;
+    }
+    .b-content-top p {
+        font-size: 20px;
+    }
+    .blog-box {
+        width: 100%;
+        margin-bottom: 27px;
+    }
+    .b-hero-content {
+        width: 37%;
+    }
+
+    /* responsive mobile menu */
+    .header-menu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .header-menu .menu-check:checked ~ ul{
+        opacity: 1;
+        visibility: visible;
+        height: 100%;
+    }
+    .header-menu ul li {
+        position: relative;
+        display: block;
+    }
+    .header-menu ul li a {
+        padding: 13px 6px;
+    }
+    .header-menu ul li ul {
+        top: -54px;
+        left: 119px;
+        border-top: none;
+        z-index: 9999;
+    }
+    .header-menu ul li ul li {
+        display: block;
+        border-bottom: none;
+    }
+    .header-menu ul li ul li a {
+        color: rgb(92, 92, 92);
+        font-size: 13px;
+        line-height: 0px;
+        background: #f4f4f494;
+    }
+    .menu-check {
+        width: 35px;
+        height: 31px;
+        opacity: 0;
+        cursor: pointer;
+        display: block;
+    }
+    .menu-bar-icon {
+        position: absolute;
+        top: 55px;
+        left: 23px;
+        pointer-events: none;
+    }
+
+}
+
+
+@media(max-width:650px) {
+    .version-box {
+        width: 100%;
+        margin-bottom: 23px;
+    }
+    .version-box:last-child {
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .course-version {
+        padding: 0 28px;
+    }
+    .box-btn a {
+        font-size: 20px;
+        padding: 17px 27px;
+    }
+    .course-title h1 {
+        font-size: 35px;
+    }
+    .course-title p {
+        font-size: 16px;
+    }
+    .team-title h2 {
+        font-size: 27px;
+    }
+    .e-address {
+        width: 280px;
+    }
+    .news-content form button {
+        padding: 14px 39px;
+    }
+    .title-h h1 {
+        font-size: 35px;
+    }
+    .title-p p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .b-hero-content {
+        width: 43%;
+    }
+    .blog-title p {
+        padding-bottom: 37px;
+    }
+    .blog-title h2 {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:576px) {
+    .service-title h1 {
+        font-size: 24px;
+    }
+    .service-title p {
+        font-size: 19px;
+    }
+    .course-version {
+        padding: 0 25px;
+    }
+    .course-title h1 {
+        font-size: 32px;
+    }
+    .course-title p {
+        font-size: 17px;
+    }
+    .team-box-sec {
+        margin: 0 70px;
+    }
+    .box-team {
+        width: 100%;
+        margin-bottom: 31px;
+    }
+    .box-team h4 {
+        font-size: 21px;
+    }
+    .box-team p {
+        font-size: 17px;
+    }
+    .team-title h2 {
+        font-size: 21px;
+    }
+    .e-address {
+        width: 326px;
+    }
+    .news-content p {
+        font-size: 16px;
+    }
+    .news-content h2 {
+        font-size: 27px;
+    }
+    .right-in-content {
+        margin-top: 2px;
+    }
+    .title-h h1 {
+        font-size: 28px;
+    }
+    .b-hero-content {
+        width: 55%;
+    }
+    .footer p {
+        font-size: 15px;
+    }
+} 
+
+
+@media(max-width:430px) {
+    .header-logo a img {
+        width: 40px;
+        padding-top: 6px;
+        margin-right: 6px;
+    }
+    .header-logo span {
+        font-size: 19px;
+    }
+    .header-menu span {
+        font-size: 30px;
+    }
+    .header-button {
+        top: 34px;
+    }
+    .header-button a {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+    .banner-content {
+        padding: 70px 0;
+    }
+    .primary-btn {
+        padding: 10px 16px;
+        width: 60%;
+        margin-bottom: 15px;
+    }
+    .banner-content h1 {
+        font-size: 30px;
+        padding: 22px 0;
+    }
+    .banner-content p{
+        font-size: 16px;
+    }
+    .video-content-right h3 {
+        font-size: 33px;
+        padding-bottom: 10px;
+    }
+    .service-box {
+        padding: 20px 19px;
+    }
+    .s-icon {
+        width: 20px;
+        font-size: 40px;
+    }
+    .s-content h3 {
+        font-size: 18px;
+        padding: 16px 0px;
+    }
+    .s-content p {
+        font-size: 18px;
+    }
+    .service-title h1 {
+        font-size: 20px;
+    }
+    .service-title p {
+        font-size: 16px;
+    }
+    .course-version {
+        padding: 0 0px;
+    }
+    .box-top h4 {
+        padding-bottom: 25px;
+        font-size: 20px;
+    }
+    .box-top h1 {
+        font-size: 43px;
+    }
+    .box-top h5 {
+        font-size: 21px;
+        padding-top: 30px;
+    }
+    .box-top p {
+        font-size: 18px;
+    }
+    .box-list {
+        padding: 24px 33px;
+    }
+    .box-list ul li {
+        line-height: 53px;
+        font-size: 17px;
+    }
+    .box-btn a {
+        font-size: 16px;
+        padding: 15px 20px;
+    }
+    .course-title h1 {
+        font-size: 24px;
+    }
+    .course-title p {
+        font-size: 16px;
+    }
+    .team-box-sec {
+        margin: 0 21px;
+    }
+    .e-address {
+        width: 85%;
+    }
+    .news-content p {
+        font-size: 14px;
+    }
+    .news-content h2 {
+        font-size: 22px;
+    }
+    .invoice-hero-sec {
+        margin: 0;
+    }
+    .title-h {
+        width: 100%;
+    }
+    .title-p {
+        width: 100%;
+    }
+    .title-h h1 {
+        padding-bottom: 11px;
+    }
+    .blog-template {
+        padding: 0;
+    }
+    .b-content-top p {
+        font-size: 18px;
+        line-height: 34px;
+        padding: 14px 13px;
+    }
+    .l-hero img {
+        height: 70px;
+    }
+    .r-content h4 {
+        font-size: 20px;
+    }
+    .r-content p {
+        font-size: 17px;
+    }
+    .contact-title p {
+        font-size: 19px;
+        line-height: 34px;
+    }
+    .map-section iframe {
+        height: 286px;
+    }
+    .w50 {
+        width: 100%;
+    }
+    .contact-title h2 {
+        font-size: 28px;
+        padding: 22px 0;
+    }
+    .contact-title p {
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+    
+}
+
+
+@media(max-width:368px) {
+    .team-box-sec {
+        margin: 0;
+    }
+    .right-in-content p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .right-in-content h3 {
+        font-size: 20px;
+    }
+    .right-in-content {
+        margin-top: 0px;
+    }
+    .b-content-top p {
+        font-size: 17px;
+        line-height: 33px;
+        padding: 5px 8px;
+    }
+    .b-hero-content {
+        width: 70%;
+    }
+    .l-hero img {
+        height: 66px;
+    }
+    .blog-title h2 {
+        font-size: 21px;
+    }
+}
